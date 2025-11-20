@@ -4,3 +4,5 @@
 
 - Make idempotency rules explicit for each operation.
 
+- Clarify read vs write paths in early diagrams.
+
