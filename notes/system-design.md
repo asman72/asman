@@ -6,3 +6,5 @@
 
 - Clarify read vs write paths in early diagrams.
 
+- Keep background jobs and user flows separated.
+
