@@ -8,3 +8,5 @@
 
 - Keep background jobs and user flows separated.
 
+- Document failure modes next to each dependency.
+
