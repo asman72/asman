@@ -10,3 +10,5 @@
 
 - Document failure modes next to each dependency.
 
+- Highlight which parts can be eventually consistent.
+
