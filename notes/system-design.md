@@ -12,3 +12,5 @@
 
 - Highlight which parts can be eventually consistent.
 
+- Capture assumptions and constraints in the same doc.
+
