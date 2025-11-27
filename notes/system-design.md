@@ -16,3 +16,5 @@
 
 - Keep diagrams up to date with real behavior.
 
+- Start documenting from the core data model.
+
