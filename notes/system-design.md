@@ -18,3 +18,5 @@
 
 - Start documenting from the core data model.
 
+- Make idempotency rules explicit for each operation.
+
