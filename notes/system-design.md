@@ -24,3 +24,5 @@
 
 - Keep background jobs and user flows separated.
 
+- Prefer simple queues over complex orchestration.
+
