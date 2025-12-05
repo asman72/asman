@@ -26,3 +26,5 @@
 
 - Prefer simple queues over complex orchestration.
 
+- Capture assumptions and constraints in the same doc.
+
