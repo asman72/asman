@@ -28,3 +28,5 @@
 
 - Capture assumptions and constraints in the same doc.
 
+- Keep diagrams up to date with real behavior.
+
