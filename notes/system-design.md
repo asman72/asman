@@ -30,3 +30,7 @@
 
 - Keep diagrams up to date with real behavior.
 
+
+Consider adding a contribution guide.
+Explore CI/CD pipeline integration for automated testing and deployment.
+
