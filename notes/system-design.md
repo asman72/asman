@@ -34,3 +34,7 @@
 Consider adding a contribution guide.
 Explore CI/CD pipeline integration for automated testing and deployment.
 
+
+*   Consider adding integration tests for key workflows.
+*   Explore a CI/CD pipeline for automated testing and deployment.
+
