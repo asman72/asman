@@ -42,3 +42,8 @@ Explore CI/CD pipeline integration for automated testing and deployment.
 Consider adding a CI/CD pipeline for automated testing and deployment.
 Explore integrating with popular project management tools for enhanced collaboration.
 
+
+Consider adding a contribution guide.
+
+Explore setting up a CI/CD pipeline.
+
