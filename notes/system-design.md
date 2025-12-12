@@ -47,3 +47,7 @@ Consider adding a contribution guide.
 
 Explore setting up a CI/CD pipeline.
 
+
+*   Consider adding a `CHANGELOG.md` file to document changes between versions.
+*   Explore integrating a CI/CD pipeline for automated testing and deployment.
+
