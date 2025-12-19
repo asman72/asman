@@ -71,3 +71,7 @@ Explore potential integrations with popular CI/CD platforms.
 - Consider adding a README.md explaining the purpose and setup.
 - Include examples of how to use the repo's functionality.
 
+
+- Consider adding CI/CD pipeline for automated testing and deployment.
+- Document API endpoints and usage clearly.
+
