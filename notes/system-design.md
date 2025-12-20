@@ -75,3 +75,7 @@ Explore potential integrations with popular CI/CD platforms.
 - Consider adding CI/CD pipeline for automated testing and deployment.
 - Document API endpoints and usage clearly.
 
+
+Consider adding contribution guidelines.
+Explore potential integrations with other tools like CI/CD pipelines.
+
