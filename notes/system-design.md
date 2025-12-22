@@ -84,3 +84,7 @@ Consider adding comprehensive unit tests for the core algorithms.
 
 Explore integration with CI/CD pipelines for automated testing and deployment.
 
+
+* Consider adding a CI/CD pipeline for automated testing and deployment.
+* Explore integrating with cloud services for scalable storage and compute.
+
