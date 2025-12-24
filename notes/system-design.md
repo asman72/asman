@@ -88,3 +88,6 @@ Explore integration with CI/CD pipelines for automated testing and deployment.
 * Consider adding a CI/CD pipeline for automated testing and deployment.
 * Explore integrating with cloud services for scalable storage and compute.
 
+
+Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines and a `CODE_OF_CONDUCT.md` file to foster a welcoming community.
+
