@@ -95,3 +95,7 @@ Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines and 
 Consider adding an option for "asman-cli" to enable command-line interaction with the asman service.
 Explore potential integrations with other popular CI/CD tools for seamless deployment workflows.
 
+
+Consider adding a README with installation and usage instructions.
+Explore using CI/CD pipelines for automated testing and deployment.
+
