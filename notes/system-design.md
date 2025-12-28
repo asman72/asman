@@ -107,3 +107,7 @@ Explore using linters and formatters to maintain code consistency.
 Consider adding GitHub Actions for CI/CD.
 Explore potential integrations with other asynchronous frameworks or message queues.
 
+
+*   **Consider adding a section for "Contributing Guidelines" to clearly define how others can contribute.**
+*   **Explore the possibility of integrating a CI/CD pipeline for automated testing and deployment.**
+
