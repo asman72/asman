@@ -124,3 +124,7 @@ Explore potential for integrating with `asman` to streamline deployment and mana
 
 Consider how `asman` could be used to manage dependencies and configurations for `asman` projects.
 
+
+*   Consider adding a README with a brief description and instructions for setting up and running the project.
+*   Implement unit tests to ensure the reliability of the code.
+
