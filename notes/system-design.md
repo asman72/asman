@@ -128,3 +128,7 @@ Consider how `asman` could be used to manage dependencies and configurations for
 *   Consider adding a README with a brief description and instructions for setting up and running the project.
 *   Implement unit tests to ensure the reliability of the code.
 
+
+Consider adding a CI/CD pipeline for automated testing and deployment.
+Explore integrating with a package manager for easier dependency management.
+
