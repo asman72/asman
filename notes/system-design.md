@@ -137,3 +137,7 @@ Consider adding a README.md file with a project description and installation ins
 
 Explore using a linter like ESLint to enforce code style and catch potential errors.
 
+
+Consider adding a README.md file with a brief overview and setup instructions.
+Explore using Git hooks for automated testing or code formatting.
+
