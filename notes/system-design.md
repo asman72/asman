@@ -145,3 +145,7 @@ Explore using Git hooks for automated testing or code formatting.
 - Consider adding integration tests to verify core functionality.
 - Explore using a CI/CD pipeline for automated testing and deployment.
 
+
+Consider adding automated code linting and formatting with tools like Black and Flake8.
+Explore integrating a GitHub Action for automated testing upon pull requests.
+
