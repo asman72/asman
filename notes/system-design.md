@@ -149,3 +149,8 @@ Explore using Git hooks for automated testing or code formatting.
 Consider adding automated code linting and formatting with tools like Black and Flake8.
 Explore integrating a GitHub Action for automated testing upon pull requests.
 
+
+Consider adding a CONTRIBUTING.md file.
+
+Explore CI/CD pipeline integration.
+
