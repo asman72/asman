@@ -157,3 +157,8 @@ Explore CI/CD pipeline integration.
 
 Consider adding a `docs` folder for detailed project documentation and a `CONTRIBUTING.md` file outlining contribution guidelines.
 
+
+Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
+
+Explore integrating a CI/CD pipeline for automated testing and deployment.
+
