@@ -162,3 +162,7 @@ Consider adding a `CONTRIBUTING.md` file to outline contribution guidelines.
 
 Explore integrating a CI/CD pipeline for automated testing and deployment.
 
+
+Consider adding a "getting started" guide for new users.
+Explore potential for integration with other popular developer tools.
+
