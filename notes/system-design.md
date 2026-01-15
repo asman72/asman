@@ -166,3 +166,7 @@ Explore integrating a CI/CD pipeline for automated testing and deployment.
 Consider adding a "getting started" guide for new users.
 Explore potential for integration with other popular developer tools.
 
+
+*   Consider adding a CI/CD pipeline for automated testing and deployment.
+*   Document the setup and usage of the `asman` tool thoroughly.
+
