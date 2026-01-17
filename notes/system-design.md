@@ -170,3 +170,7 @@ Explore potential for integration with other popular developer tools.
 *   Consider adding a CI/CD pipeline for automated testing and deployment.
 *   Document the setup and usage of the `asman` tool thoroughly.
 
+
+*   Consider adding comprehensive documentation for each API endpoint, including request/response schemas, example payloads, and error handling.
+*   Explore integration with a CI/CD pipeline for automated testing and deployment.
+
