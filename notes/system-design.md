@@ -174,3 +174,7 @@ Explore potential for integration with other popular developer tools.
 *   Consider adding comprehensive documentation for each API endpoint, including request/response schemas, example payloads, and error handling.
 *   Explore integration with a CI/CD pipeline for automated testing and deployment.
 
+
+* **Consider adding a CONTRIBUTING.md file:** This would outline guidelines for how others can contribute to the project, including code style, branching strategy, and how to submit pull requests.
+* **Explore potential integrations:** Think about what other tools or services `asman` could interact with. This could open up new use cases and expand its reach.
+
