@@ -178,3 +178,7 @@ Explore potential for integration with other popular developer tools.
 * **Consider adding a CONTRIBUTING.md file:** This would outline guidelines for how others can contribute to the project, including code style, branching strategy, and how to submit pull requests.
 * **Explore potential integrations:** Think about what other tools or services `asman` could interact with. This could open up new use cases and expand its reach.
 
+
+*   Consider adding a GitHub Actions workflow for automated testing and deployment.
+*   Document the core functionality and setup process with clear examples.
+
