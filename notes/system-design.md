@@ -182,3 +182,7 @@ Explore potential for integration with other popular developer tools.
 *   Consider adding a GitHub Actions workflow for automated testing and deployment.
 *   Document the core functionality and setup process with clear examples.
 
+
+* Consider adding a contribution guide for community involvement.
+* Explore integrating with CI/CD pipelines for automated testing and deployment.
+
