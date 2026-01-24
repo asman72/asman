@@ -186,3 +186,7 @@ Explore potential for integration with other popular developer tools.
 * Consider adding a contribution guide for community involvement.
 * Explore integrating with CI/CD pipelines for automated testing and deployment.
 
+
+*   Consider adding a CONTRIBUTING.md file for community guidelines.
+*   Include a README.md with a clear project description, installation instructions, and usage examples.
+
