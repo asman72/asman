@@ -194,3 +194,7 @@ Explore potential for integration with other popular developer tools.
 - Consider adding a `CONTRIBUTING.md` file outlining contribution guidelines.
 - Explore setting up a CI/CD pipeline for automated testing and deployment.
 
+
+*   Consider adding CONTRIBUTING.md to guide potential contributors.
+*   Explore implementing GitHub Actions for CI/CD.
+
