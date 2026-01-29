@@ -206,3 +206,8 @@ Explore integrating a CI/CD pipeline for automated testing and deployment.
 - **Cross-platform considerations**: Explicitly address and document compatibility across different operating systems and environments.
 - **Security best practices**: Include a dedicated section on security measures and recommendations for protecting the repository and its contents.
 
+
+Consider adding a `CODE_OF_CONDUCT.md` file to promote a respectful and inclusive community.
+
+Explore adding a `CONTRIBUTING.md` file to guide potential contributors on how to get involved and submit changes.
+
